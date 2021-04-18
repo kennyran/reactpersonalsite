@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactpersonalsite/static/css/main.d5abe67e.chunk.css",
+    "main.js": "/reactpersonalsite/static/js/main.b9d64f8a.chunk.js",
+    "main.js.map": "/reactpersonalsite/static/js/main.b9d64f8a.chunk.js.map",
+    "runtime-main.js": "/reactpersonalsite/static/js/runtime-main.7d45c54a.js",
+    "runtime-main.js.map": "/reactpersonalsite/static/js/runtime-main.7d45c54a.js.map",
+    "static/js/2.7efc7ed2.chunk.js": "/reactpersonalsite/static/js/2.7efc7ed2.chunk.js",
+    "static/js/2.7efc7ed2.chunk.js.map": "/reactpersonalsite/static/js/2.7efc7ed2.chunk.js.map",
+    "static/js/3.ac4fe42e.chunk.js": "/reactpersonalsite/static/js/3.ac4fe42e.chunk.js",
+    "static/js/3.ac4fe42e.chunk.js.map": "/reactpersonalsite/static/js/3.ac4fe42e.chunk.js.map",
+    "index.html": "/reactpersonalsite/index.html",
+    "static/css/main.d5abe67e.chunk.css.map": "/reactpersonalsite/static/css/main.d5abe67e.chunk.css.map",
+    "static/js/2.7efc7ed2.chunk.js.LICENSE.txt": "/reactpersonalsite/static/js/2.7efc7ed2.chunk.js.LICENSE.txt",
+    "static/media/KennethRancourSoftwareEngineer.149bebac.pdf": "/reactpersonalsite/static/media/KennethRancourSoftwareEngineer.149bebac.pdf",
+    "static/media/css3.9cecabbf.svg": "/reactpersonalsite/static/media/css3.9cecabbf.svg",
+    "static/media/express.415f9b1f.svg": "/reactpersonalsite/static/media/express.415f9b1f.svg",
+    "static/media/html5.c28bc668.svg": "/reactpersonalsite/static/media/html5.c28bc668.svg",
+    "static/media/jquery.713ace68.svg": "/reactpersonalsite/static/media/jquery.713ace68.svg",
+    "static/media/mongodb.416baad2.svg": "/reactpersonalsite/static/media/mongodb.416baad2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d45c54a.js",
+    "static/js/2.7efc7ed2.chunk.js",
+    "static/css/main.d5abe67e.chunk.css",
+    "static/js/main.b9d64f8a.chunk.js"
+  ]
+}
