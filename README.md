@@ -1,3 +1,13 @@
+# Intro
+
+My personal porfolio site made with React to showcase my skills as well as be a place to contact me if desired
+
+# React Version
+
+Created with React v17.0.1
+
+**\*\*\*\* ANYTHING BELOW THIS IS AUTOMATICALLY CREATED WHEN UING [CREATE REACT APP] **\*\*\*\*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
