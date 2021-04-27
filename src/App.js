@@ -31,7 +31,7 @@ function App() {
               <Navbar.Brand href="#home" id="nav-name">Kenny Rancour</Navbar.Brand>
               <Nav className="justify-content-end">
                   <Nav.Link href={Resume} id="nav-name">Resume</Nav.Link>
-                  <Nav.Link href="#about" id="nav-name">About me</Nav.Link>
+                  <Nav.Link href="#about" id="nav-name">About</Nav.Link>
                   <Nav.Link href="#portfolio" id="nav-name">Portfolio</Nav.Link>
                   <Nav.Link href="#contact" id="nav-name">Contact</Nav.Link>
               </Nav>
@@ -123,7 +123,7 @@ function App() {
                     <Card.Text>
                       <p>Weather app made with React, NodeJS, and OpenWeatherMap API to display the weather in the location of your choice.</p>
                     </Card.Text>
-                    <Button className="card-button" variant="outline-secondary" href="https://github.com/kennyran/weather-app" target="_blank">Check your weather here</Button>
+                    <Button className="card-button" variant="outline-secondary" href="https://kennyran.github.io/weather-app/" target="_blank">Check your weather here</Button>
                   </Card.Body>
                 </Card>
                 <Card>
