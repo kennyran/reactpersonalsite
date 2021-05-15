@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactpersonalsite/static/css/main.d5abe67e.chunk.css",
-    "main.js": "/reactpersonalsite/static/js/main.4e9c1c23.chunk.js",
-    "main.js.map": "/reactpersonalsite/static/js/main.4e9c1c23.chunk.js.map",
+    "main.js": "/reactpersonalsite/static/js/main.c915ffea.chunk.js",
+    "main.js.map": "/reactpersonalsite/static/js/main.c915ffea.chunk.js.map",
     "runtime-main.js": "/reactpersonalsite/static/js/runtime-main.7d45c54a.js",
     "runtime-main.js.map": "/reactpersonalsite/static/js/runtime-main.7d45c54a.js.map",
     "static/js/2.7efc7ed2.chunk.js": "/reactpersonalsite/static/js/2.7efc7ed2.chunk.js",
@@ -15,14 +15,16 @@
     "static/media/KennethRancourSoftwareEngineer.a2426df9.pdf": "/reactpersonalsite/static/media/KennethRancourSoftwareEngineer.a2426df9.pdf",
     "static/media/css3.9cecabbf.svg": "/reactpersonalsite/static/media/css3.9cecabbf.svg",
     "static/media/express.415f9b1f.svg": "/reactpersonalsite/static/media/express.415f9b1f.svg",
+    "static/media/ganache.7bf30727.svg": "/reactpersonalsite/static/media/ganache.7bf30727.svg",
     "static/media/html5.c28bc668.svg": "/reactpersonalsite/static/media/html5.c28bc668.svg",
-    "static/media/jquery.713ace68.svg": "/reactpersonalsite/static/media/jquery.713ace68.svg",
-    "static/media/mongodb.416baad2.svg": "/reactpersonalsite/static/media/mongodb.416baad2.svg"
+    "static/media/mongodb.416baad2.svg": "/reactpersonalsite/static/media/mongodb.416baad2.svg",
+    "static/media/solidity.9a07f18c.svg": "/reactpersonalsite/static/media/solidity.9a07f18c.svg",
+    "static/media/truffle.cbfd55d6.svg": "/reactpersonalsite/static/media/truffle.cbfd55d6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d45c54a.js",
     "static/js/2.7efc7ed2.chunk.js",
     "static/css/main.d5abe67e.chunk.css",
-    "static/js/main.4e9c1c23.chunk.js"
+    "static/js/main.c915ffea.chunk.js"
   ]
 }
